@@ -7,4 +7,13 @@ hh
 hey dude
 wr r u
 r u there ??
+<<<<<<< HEAD
 hey rk
+=======
+
+
+did u removed spaces...?
+
+whats next..... 
+
+>>>>>>> 24a2885a8db4254d3df324dea748fa1a4e18046b
