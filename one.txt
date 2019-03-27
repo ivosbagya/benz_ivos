@@ -1,10 +1,6 @@
 hello AMPK
 bye rk
 see you later.....
-<<<<<<< HEAD
 Hello AMPK... Whats goin on here.....
-=======
-hey
-hh
-hey dude
->>>>>>> 837778f8a58a011484115a16e8effb931d1b7dee
+
+ffgghhkkll'';;445566
